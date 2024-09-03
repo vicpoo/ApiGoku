@@ -1,4 +1,4 @@
-import SectionInfo from "../components/organisms/SectionInfo";
+import SectionInfo from "../components/SectionInfo";
 
 function Home(){
 
